@@ -1,1 +1,60 @@
 /* Write your CSS here! */
+#mainHeading {
+    text-align: center;
+    margin-bottom: 30px;
+    color: red;
+}
+
+#body {
+    background-color: lightsteelblue;
+    margin: 8px;
+  }
+
+li {
+    display: list-item;
+    margin-left: 35px;
+    border: 3px solid blueviolet;
+    border-bottom-color: blueviolet;
+    border-bottom-width: 3px;
+    border-right-width: 1000px;
+    border-block-end-color: pink;
+    color: darkmagenta;
+    font-weight: bold;
+    padding-block: 5px;
+    text-align: center;
+    font-size: large;
+}
+
+#testP{
+    color:green;
+    margin-right: 350px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+h5 {
+    margin-left: 18px;
+    color: darkmagenta;
+}
+
+h2 {
+    color: darkcyan;
+    text-decoration-line: underline;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+p {
+    color: rgb(194, 25, 154);
+    margin-right: 350px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+div.image{
+    text-align: center;
+}
