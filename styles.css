@@ -58,3 +58,8 @@ p {
 div.image{
     text-align: center;
 }
+
+#rescue{
+    text-align: center;
+    color:navy;
+}
